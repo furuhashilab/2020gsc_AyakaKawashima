@@ -6,24 +6,15 @@
 © Furuhashi Laboratory/Ayaka Kwashima, CC BY 4.0
 
 ## 資料
-**2020年度ゼミ論本文**
-
-https://docs.google.com/document/d/1dErgCbpDEs70XE7SZqAjZeJUcafG9hP3JCBMGZNyc0E/edit?usp=sharing　　
-
+**2020年度ゼミ論本文**  
+https://docs.google.com/document/d/1dErgCbpDEs70XE7SZqAjZeJUcafG9hP3JCBMGZNyc0E/edit?usp=sharing　　  
 **進捗管理用プロジェクト**  
-
 https://github.com/furuhashilab/sotsuron2020/projects/15　　  
-
 **最終プレゼン資料**  
-
-https://docs.google.com/presentation/d/18dggqIuMX8O4rC9_XHh7Mr6lhmqKkXITzkOzVNiXjcs/edit?usp=sharing  
-
-**参考文献リスト**  
-
-https://docs.google.com/spreadsheets/d/1zQAbCm2X8HiELG-cyF32HMo-7hYqugQrBzbmzoDgup8/edit?usp=sharing　　 
-
+https://docs.google.com/presentation/d/18dggqIuMX8O4rC9_XHh7Mr6lhmqKkXITzkOzVNiXjcs/edit?usp=sharing    
+**参考文献リスト**   
+https://docs.google.com/spreadsheets/d/1zQAbCm2X8HiELG-cyF32HMo-7hYqugQrBzbmzoDgup8/edit?usp=sharing　　  
 **作成アプリ**  
-
 https://spacial-harmony-4996.glideapp.io/　　
 　
 
@@ -77,21 +68,22 @@ Googleスプレッドシートには、②の(1)を含む「How To’s」、(2)�
 道具は自由度が高く、特にこれでなくてはダメというものがない。  
 3)デジタル化   
 アナロググラレコをデジタル化する手法に言及されたものは、探した範囲では見つからない。（スキャナアプリの特集などはある)  
-4)イラスト・グラレコをまとめる機能   
-グラレコ作成後は共有するだけなのか。グラレコの1番の目的は「議論を可視化すること」   
-しかし、まとめてみれるものがあってもいいのでは?  
-　　
-**2.Glideについて**  　
-個人利用ではなく、全員のお気に入りやイラストが反映される。　　
-メリット：　全員のものが反映されるとイラスト語彙が増える　　
-デメリット：自分だけのお気に入りやMy Grarecoを作成できない。　　　　
+4)イラスト・グラレコをまとめる機能     
+グラレコ作成後は共有するだけなのか。グラレコの1番の目的は「議論を可視化すること」     
+しかし、まとめてみれるものがあってもいいのでは?      
+　　    
+**2.Glideについて**  　    
+個人利用ではなく、全員のお気に入りやイラストが反映される。　　    
+メリット：　全員のものが反映されるとイラスト語彙が増える　　    
+デメリット：自分だけのお気に入りやMy Grarecoを作成できない。　    　　　
 
 
-個人利用むけには　　
-①今回作成したものをtemplateに投稿する。　　
-②Githubなどで連絡してもらえれば、こちらで同じアプリを作成しQRコードを共有する。　　
-　　
-**3.グラフィックレコーディングを「書く」か「描く」、どちらなのか**　　
+個人利用むけには　　   
+①今回作成したものをtemplateに投稿する。　     　
+②Githubなどで連絡してもらえれば、こちらで同じアプリを作成しQRコードを共有する。　     　
+　　     
+        
+**3.グラフィックレコーディングを「書く」か「描く」、どちらなのか**　　    
 Graphic Recorder 議論を可視化するグラフィックレコーディングの教科書」（清水純子）、「はじめてのグラフィックレコーディング 考えを図にする、会議を絵にする。」（久保田 麻美 ）を読んだところ「描く」が一般的だった。　　
 
 ## Conclusion　　　
