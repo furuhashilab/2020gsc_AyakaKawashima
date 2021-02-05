@@ -5,22 +5,8 @@
 指導教員：古橋 大地教授   
 © Furuhashi Laboratory/Ayaka Kwashima, CC BY 4.0
 
-## 資料
-**2020年度ゼミ論本文**  
-https://docs.google.com/document/d/1dErgCbpDEs70XE7SZqAjZeJUcafG9hP3JCBMGZNyc0E/edit?usp=sharing　　  
-**進捗管理用プロジェクト**  
-https://github.com/furuhashilab/sotsuron2020/projects/15　　  
-**最終プレゼン資料**  
-https://docs.google.com/presentation/d/18dggqIuMX8O4rC9_XHh7Mr6lhmqKkXITzkOzVNiXjcs/edit?usp=sharing    
-**参考文献リスト**   
-https://docs.google.com/spreadsheets/d/1zQAbCm2X8HiELG-cyF32HMo-7hYqugQrBzbmzoDgup8/edit?usp=sharing　　  
-**作成アプリ**  
-https://spacial-harmony-4996.glideapp.io/　　
-　
-
 ## 概要  
-本研究では、  
-
+本研究では、自宅での「グラフィックレコーディング/グラフィックレポート」作成時の補助を目的としたアプリ開発を行なった。対象環境を1人、方法をアナログでのグラレコとし、ゼミ生が実際にグラレコ作成時に感じている課題を聞き取り調査を行い明らかにした。その結果、わかった課題、障害を取り除くために必要だと考える内容を含んだスライド、コンテンツを作成し、Googleスプレッドシートから簡単にアプリ作成ができるツール「Glide」を使用し、アプリ開発を行なった。
 
 **対象者**   
 - 既に所属しているグラレコ部以外のゼミ生  
@@ -33,7 +19,7 @@ https://spacial-harmony-4996.glideapp.io/　　
 - グラレコ対象：オンライン会議やイベント、動画  
 
 ## Introduction
-　古橋研究室では、ゼミ生全員がグラフィックレコーディング（以下グラレコ）の作成が必須である。しかし、新型コロナウイルスの影響によりグラレコを対面で学ぶ機会がなくなり、グラレコ部以外のゼミ生からグラレコをどのようにかいたらいいのか分からず、時間がかかる・うまくかけないといった声を聞くことが多かった。そこで、対象を古橋研究室のゼミ生、新しく入ってくる新ゼミ生とした、オンラインでも使用できるグラレコ補助アプリの制作を考えた。グラレコ初心者やグラレコに苦手意識がある人には「グラレコの基礎を学べる用」・「レイアウトやイラストに困ったときのお助け用」として、グラレコ部やグラレコに慣れてきた人には「自分のグラレコやイラストなどをまとめる用」としての使用を目的とする。　　
+　古橋研究室では、ゼミ生全員がグラフィックレコーディング（以下グラレコ）の作成が必須である。しかし、新型コロナウイルスの影響によりグラレコを対面で学ぶ機会がなくなり、グラレコ部以外のゼミ生からグラレコの描き方が分からず、「時間がかかる。うまくかけない。」といった声を聞くことが多かった。そこで、対象を古橋研究室のゼミ生、新しく入ってくる新ゼミ生としたオンラインでも使用できるグラレコ補助アプリの制作を考えた。グラレコ初心者やグラレコに苦手意識がある人には「グラレコの基礎を学べる用」・「レイアウトやイラストに困ったときのお助け用」として、グラレコ部やグラレコに慣れてきた人には「自分のグラレコやイラストなどをまとめる用」としての使用を目的とする。　　
 
 ## Methods　　
 グラレコ補助アプリの制作にあたって、①現状を分析、②必要なものを作成し、最終的にGlideを使用しアプリを開発した。　　
@@ -44,8 +30,8 @@ https://spacial-harmony-4996.glideapp.io/　　
 **②必要なものを作成**  
 (1) 現状分析の結果により、必要だと考えられる道具の種類、似顔絵の描き方、アナロググラレコのデジタル化の方法を説明するスライドを作成した。  
 道具のスライド：  
-似顔絵のスライド：  
-デジタル化のスライド：  
+似顔絵のスライド： https://speakerdeck.com/ayaka0324/si-yan-hui-falseshu-kifang　　  
+デジタル化のスライド： https://speakerdeck.com/ayaka0324/memowoshi-tutatesitaruhua-falseshi-fang　　  
 (2) 最も多かった意見である「レイアウト」については、タイトルの位置（7種）、似顔絵の位置（5種）、レイアウト（4種）提案し、テンプレートを考えた。　　
 
 **③Glideを使ってアプリを開発**  
@@ -91,11 +77,22 @@ Graphic Recorder 議論を可視化するグラフィックレコーディング
 
 ## Conclusion　　　
 今後の課題としては、以下の二つが挙げられる。　　    
-・コンテンツの充実度（グラレコの描き方、グラレコとは、デジタル版について）　　　　    
-・Templateが再考の余地あり　　　　　　　　　    
+- コンテンツの充実度（グラレコの描き方、グラレコとは、デジタル版について）　　　　    
+- Templateが再考の余地あり　　　　　　　　　    
 　　    
 また、グラレコは組織だけでなく、個人の思考力を助けることを改めて学び、研究を通してグラレコの可能性、有効性を知ることができた。グラレコではイラストとキーワードを主に使用していることから、言語や文化を超えての意思疎通に有効性があると考える。今後ますます発展していくと考えられるグラレコにおいて、グラレコ専用アプリが増加していくのではないかと考えられる。
 
 ## 謝辞
 本研究を進めるにあたり地球社会共生学部の古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
  
+## 資料
+**2020年度ゼミ論本文**  
+https://docs.google.com/document/d/1dErgCbpDEs70XE7SZqAjZeJUcafG9hP3JCBMGZNyc0E/edit?usp=sharing　　  
+**進捗管理用プロジェクト**  
+https://github.com/furuhashilab/sotsuron2020/projects/15　　  
+**最終プレゼン資料**  
+https://docs.google.com/presentation/d/18dggqIuMX8O4rC9_XHh7Mr6lhmqKkXITzkOzVNiXjcs/edit?usp=sharing    
+**参考文献リスト**   
+https://docs.google.com/spreadsheets/d/1zQAbCm2X8HiELG-cyF32HMo-7hYqugQrBzbmzoDgup8/edit?usp=sharing　　  
+**作成アプリ**  
+https://spacial-harmony-4996.glideapp.io/　　
