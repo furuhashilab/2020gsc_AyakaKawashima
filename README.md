@@ -6,15 +6,24 @@
 © Furuhashi Laboratory/Ayaka Kwashima, CC BY 4.0
 
 ## 資料
-**2020年度ゼミ論本文**     　 　
+**2020年度ゼミ論本文**
+
 https://docs.google.com/document/d/1dErgCbpDEs70XE7SZqAjZeJUcafG9hP3JCBMGZNyc0E/edit?usp=sharing　　
-**進捗管理用プロジェクト**    
-https://github.com/furuhashilab/sotsuron2020/projects/15　　
-**最終プレゼン資料**      
-https://docs.google.com/presentation/d/18dggqIuMX8O4rC9_XHh7Mr6lhmqKkXITzkOzVNiXjcs/edit?usp=sharing
-**参考文献リスト**     　　
-https://docs.google.com/spreadsheets/d/1zQAbCm2X8HiELG-cyF32HMo-7hYqugQrBzbmzoDgup8/edit?usp=sharing　　
-**作成アプリ**    　 　
+
+**進捗管理用プロジェクト**  
+
+https://github.com/furuhashilab/sotsuron2020/projects/15　　  
+
+**最終プレゼン資料**  
+
+https://docs.google.com/presentation/d/18dggqIuMX8O4rC9_XHh7Mr6lhmqKkXITzkOzVNiXjcs/edit?usp=sharing  
+
+**参考文献リスト**  
+
+https://docs.google.com/spreadsheets/d/1zQAbCm2X8HiELG-cyF32HMo-7hYqugQrBzbmzoDgup8/edit?usp=sharing　　 
+
+**作成アプリ**  
+
 https://spacial-harmony-4996.glideapp.io/　　
 　
 
