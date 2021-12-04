@@ -30,8 +30,8 @@
   
 **②必要なものを作成**  
 (1) 現状分析の結果により、必要だと考えられる道具の種類、似顔絵の描き方、アナロググラレコのデジタル化の方法を説明するスライドを作成した。  
-道具のスライド：  
-似顔絵のスライド： https://speakerdeck.com/ayaka0324/si-yan-hui-falseshu-kifang　　  
+道具のスライド： https://speakerdeck.com/ayaka0324/dao-ju-hahe-gabi-yao   
+似顔絵のスライド： https://speakerdeck.com/ayaka0324/si-yan-hui-falseshu-kifang　  　  
 デジタル化のスライド： https://speakerdeck.com/ayaka0324/memowoshi-tutatesitaruhua-falseshi-fang　　  
 (2) 最も多かった意見である「レイアウト」については、タイトルの位置（7種）、似顔絵の位置（5種）、レイアウト（4種）提案し、テンプレートを考えた。　　
 
